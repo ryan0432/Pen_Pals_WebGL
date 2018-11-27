@@ -1,0 +1,13 @@
+{
+"companyName": "The Pen Pals",
+"productName": "The Pen Pals",
+"dataUrl": "Pen_Pals_WebGL.data.unityweb",
+"asmCodeUrl": "Pen_Pals_WebGL.asm.code.unityweb",
+"asmMemoryUrl": "Pen_Pals_WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Pen_Pals_WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
